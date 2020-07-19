@@ -1,2 +1,2 @@
 # PictureCloudStorage
-autoPicCdn：一款基于jsdelivr+Github的免费CDN图床
+静态图片存储仓库，前台使用autoPicCdn
