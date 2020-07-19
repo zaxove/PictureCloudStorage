@@ -1,0 +1,2 @@
+# PictureCloudStorage
+autoPicCdn：一款基于jsdelivr+Github的免费CDN图床
